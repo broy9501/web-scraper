@@ -1,0 +1,281 @@
+
+    {
+        "Rank":"1",
+        "Name":"Bitcoin",
+        "Symbol":"BTC",
+        "Price":"$57,230.39",
+        "1h % Change":"0.47%",
+        "24h % Change":"2.06%",
+        "7d % Change":"3.42%",
+        "Market Cap":"$1.13T$1,128,587,267,836",
+        "Volume (24h)":"$28,359,008,651",
+        "Volume (24h) (Coins)":"495,624 BTC",
+        "Circulating Supply":"19,720,071 BTC"
+    }
+
+    {
+        "Rank":"2",
+        "Name":"Ethereum",
+        "Symbol":"ETH",
+        "Price":"$3,072.25",
+        "1h % Change":"0.49%",
+        "24h % Change":"2.03%",
+        "7d % Change":"4.28%",
+        "Market Cap":"$369.32B$369,319,559,476",
+        "Volume (24h)":"$15,275,579,493",
+        "Volume (24h) (Coins)":"4,968,825 ETH",
+        "Circulating Supply":"120,211,238 ETH"
+    }
+
+    {
+        "Rank":"3",
+        "Name":"Tether",
+        "Symbol":"USDT",
+        "Price":"$1.00",
+        "1h % Change":"0.00%",
+        "24h % Change":"0.02%",
+        "7d % Change":"0.03%",
+        "Market Cap":"$112.38B$112,383,033,880",
+        "Volume (24h)":"$53,274,191,875",
+        "Volume (24h) (Coins)":"53,242,366,428 USDT",
+        "Circulating Supply":"112,368,902,073 USDT"
+    }
+
+    {
+        "Rank":"4",
+        "Name":"BNB",
+        "Symbol":"BNB",
+        "Price":"$521.17",
+        "1h % Change":"0.61%",
+        "24h % Change":"2.46%",
+        "7d % Change":"8.67%",
+        "Market Cap":"$76.92B$76,915,991,013",
+        "Volume (24h)":"$1,721,691,372",
+        "Volume (24h) (Coins)":"3,303,492 BNB",
+        "Circulating Supply":"147,582,407 BNB"
+    }
+
+    {
+        "Rank":"5",
+        "Name":"Solana",
+        "Symbol":"SOL",
+        "Price":"$135.49",
+        "1h % Change":"0.95%",
+        "24h % Change":"5.45%",
+        "7d % Change":"4.91%",
+        "Market Cap":"$62.99B$62,992,097,854",
+        "Volume (24h)":"$2,524,638,979",
+        "Volume (24h) (Coins)":"18,633,221 SOL",
+        "Circulating Supply":"463,956,019 SOL"
+    }
+
+    {
+        "Rank":"6",
+        "Name":"USDC",
+        "Symbol":"USDC",
+        "Price":"$1.00",
+        "1h % Change":"0.00%",
+        "24h % Change":"0.02%",
+        "7d % Change":"0.01%",
+        "Market Cap":"$33.97B$33,972,788,952",
+        "Volume (24h)":"$6,000,174,901",
+        "Volume (24h) (Coins)":"5,999,969,834 USDC",
+        "Circulating Supply":"33,971,627,873 USDC"
+    }
+
+    {
+        "Rank":"7",
+        "Name":"XRP",
+        "Symbol":"XRP",
+        "Price":"$0.4732",
+        "1h % Change":"1.35%",
+        "24h % Change":"4.74%",
+        "7d % Change":"14.24%",
+        "Market Cap":"$26.41B$26,407,756,149",
+        "Volume (24h)":"$1,541,859,479",
+        "Volume (24h) (Coins)":"3,258,284,845 XRP",
+        "Circulating Supply":"55,805,339,473 XRP"
+    }
+
+    {
+        "Rank":"8",
+        "Name":"Toncoin",
+        "Symbol":"TON",
+        "Price":"$7.22",
+        "1h % Change":"0.54%",
+        "24h % Change":"0.73%",
+        "7d % Change":"5.11%",
+        "Market Cap":"$18.11B$18,111,196,180",
+        "Volume (24h)":"$271,960,373",
+        "Volume (24h) (Coins)":"37,643,042 TON",
+        "Circulating Supply":"2,506,837,686 TON"
+    }
+
+    {
+        "Rank":"9",
+        "Name":"Dogecoin",
+        "Symbol":"DOGE",
+        "Price":"$0.1058",
+        "1h % Change":"0.66%",
+        "24h % Change":"3.29%",
+        "7d % Change":"6.36%",
+        "Market Cap":"$15.35B$15,349,046,403",
+        "Volume (24h)":"$579,264,089",
+        "Volume (24h) (Coins)":"5,475,384,558 DOGE",
+        "Circulating Supply":"145,083,966,384 DOGE"
+    }
+
+    {
+        "Rank":"10",
+        "Name":"Cardano",
+        "Symbol":"ADA",
+        "Price":"$0.3992",
+        "1h % Change":"0.14%",
+        "24h % Change":"1.15%",
+        "7d % Change":"16.05%",
+        "Market Cap":"$14.32B$14,320,584,113",
+        "Volume (24h)":"$349,618,322",
+        "Volume (24h) (Coins)":"875,899,851 ADA",
+        "Circulating Supply":"35,877,403,185 ADA"
+    }
+
+    {
+        "Rank":"11",
+        "Name":"TRON",
+        "Symbol":"TRX",
+        "Price":"$0.1362",
+        "1h % Change":"0.40%",
+        "24h % Change":"1.41%",
+        "7d % Change":"8.88%",
+        "Market Cap":"$11.87B$11,869,939,642",
+        "Volume (24h)":"$357,085,648",
+        "Volume (24h) (Coins)":"2,621,266,226 TRX",
+        "Circulating Supply":"87,133,918,843 TRX"
+    }
+
+    {
+        "Rank":"12",
+        "Name":"Avalanche",
+        "Symbol":"AVAX",
+        "Price":"$25.04",
+        "1h % Change":"0.60%",
+        "24h % Change":"2.47%",
+        "7d % Change":"4.22%",
+        "Market Cap":"$9.88B$9,876,854,964",
+        "Volume (24h)":"$291,434,354",
+        "Volume (24h) (Coins)":"11,637,632 AVAX",
+        "Circulating Supply":"394,405,119 AVAX"
+    }
+
+    {
+        "Rank":"13",
+        "Name":"Shiba Inu",
+        "Symbol":"SHIB",
+        "Price":"$0.00001588",
+        "1h % Change":"0.48%",
+        "24h % Change":"4.61%",
+        "7d % Change":"15.41%",
+        "Market Cap":"$9.36B$9,358,627,856",
+        "Volume (24h)":"$238,885,814",
+        "Volume (24h) (Coins)":"15,041,566,418,196 SHIB",
+        "Circulating Supply":"589,270,749,097,351 SHIB"
+    }
+
+    {
+        "Rank":"14",
+        "Name":"Polkadot",
+        "Symbol":"DOT",
+        "Price":"$5.84",
+        "1h % Change":"0.50%",
+        "24h % Change":"4.54%",
+        "7d % Change":"5.96%",
+        "Market Cap":"$8.4B$8,402,143,283",
+        "Volume (24h)":"$157,786,617",
+        "Volume (24h) (Coins)":"27,003,801 DOT",
+        "Circulating Supply":"1,437,953,431 DOT"
+    }
+
+    {
+        "Rank":"15",
+        "Name":"Chainlink",
+        "Symbol":"LINK",
+        "Price":"$12.41",
+        "1h % Change":"0.55%",
+        "24h % Change":"3.76%",
+        "7d % Change":"4.92%",
+        "Market Cap":"$7.55B$7,547,113,030",
+        "Volume (24h)":"$340,525,192",
+        "Volume (24h) (Coins)":"27,513,643 LINK",
+        "Circulating Supply":"608,099,970 LINK"
+    }
+
+    {
+        "Rank":"16",
+        "Name":"Bitcoin Cash",
+        "Symbol":"BCH",
+        "Price":"$347.73",
+        "1h % Change":"0.53%",
+        "24h % Change":"1.47%",
+        "7d % Change":"12.80%",
+        "Market Cap":"$6.86B$6,861,356,895",
+        "Volume (24h)":"$287,428,342",
+        "Volume (24h) (Coins)":"827,756 BCH",
+        "Circulating Supply":"19,731,800 BCH"
+    }
+
+    {
+        "Rank":"17",
+        "Name":"Dai",
+        "Symbol":"DAI",
+        "Price":"$0.9999",
+        "1h % Change":"0.01%",
+        "24h % Change":"0.01%",
+        "7d % Change":"0.02%",
+        "Market Cap":"$5.35B$5,347,380,348",
+        "Volume (24h)":"$358,264,003",
+        "Volume (24h) (Coins)":"358,258,490 DAI",
+        "Circulating Supply":"5,347,888,596 DAI"
+    }
+
+    {
+        "Rank":"18",
+        "Name":"UNUS SED LEO",
+        "Symbol":"LEO",
+        "Price":"$5.68",
+        "1h % Change":"1.25%",
+        "24h % Change":"0.19%",
+        "7d % Change":"0.13%",
+        "Market Cap":"$5.26B$5,264,277,943",
+        "Volume (24h)":"$2,130,873",
+        "Volume (24h) (Coins)":"374,662 LEO",
+        "Circulating Supply":"926,013,833 LEO"
+    }
+
+    {
+        "Rank":"19",
+        "Name":"NEAR Protocol",
+        "Symbol":"NEAR",
+        "Price":"$4.80",
+        "1h % Change":"0.55%",
+        "24h % Change":"0.04%",
+        "7d % Change":"11.49%",
+        "Market Cap":"$5.27B$5,265,271,267",
+        "Volume (24h)":"$344,825,763",
+        "Volume (24h) (Coins)":"71,957,936 NEAR",
+        "Circulating Supply":"1,096,844,392 NEAR"
+    }
+
+    {
+        "Rank":"20",
+        "Name":"Litecoin",
+        "Symbol":"LTC",
+        "Price":"$68.78",
+        "1h % Change":"0.26%",
+        "24h % Change":"1.38%",
+        "7d % Change":"15.40%",
+        "Market Cap":"$5.14B$5,140,779,942",
+        "Volume (24h)":"$309,213,447",
+        "Volume (24h) (Coins)":"4,495,001 LTC",
+        "Circulating Supply":"74,741,294 LTC"
+    }
+
